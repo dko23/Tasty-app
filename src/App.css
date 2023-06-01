@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Roboto:wght@500&display=swap');
+
+
+.App {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+ 
+}
+
+.card-info{
+  border: 2px solid black;
+  
+}
+
+.card-img-top{
+  border-radius: 5px;
+}
+.navbar{
+  background-color: rgb(148, 242, 122);
+  font-family: 'Lobster', cursive;
+  font-size: x-large;
+  margin-bottom: 50px;
+}
+
+
+.receipe{
+  background-color: rgb(243, 246, 242);
+}
